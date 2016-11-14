@@ -144,11 +144,23 @@
 
 
 
-
-
-
+    <!--[if lt IE 9 ]>
     <script type="text/javascript" src="www-static/js/jquery-1.10.2.js"></script>
+    <script>page_params.isOldIE = true;</script>
+    <![endif]-->
 
+    <!--[if lt IE 8]>
+    <script>page_params.isIE7 = true;</script>
+    <!<![endif]-->
+
+    <!-- Using within Load_script object for loading all scripts at once or to load one by one -->
+    <!--[if lte IE 9 ]>
+    <script type="text/javascript" src="www-static/js/jquery-1.10.2.js"></script>
+    <script>page_params.loadOnce = true;</script>
+    <![endif]-->
+    <script>
+        var jsFileList = {};
+    </script>
 
 
 
