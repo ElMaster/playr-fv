@@ -1,0 +1,83 @@
+{
+  "name": "videojs-vr",
+  "version": "0.2.0",
+  "author": {
+    "name": "James Broberg",
+    "email": "james.broberg@metacdn.com"
+  },
+  "contributors": [
+    {
+      "name": "Sean Lawrence",
+      "email": "lawrensm@gmail.com"
+    }
+  ],
+  "engines": {
+    "node": ">= 5.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaCDN/videojs-vr.git"
+  },
+  "main": "src/js/videojs.vr.js",
+  "scripts": {
+    "build": "mkdir -p dist & npm run build-js & npm run build-css",
+    "build-js": "browserify ./src/js/player.js > ./dist/player.full.js",
+    "build-css": "browserify -g browserify-css ./src/js/player-skin.js -o ./dist/player-skin.js",
+    "serve": "npm run build & nodemon ./server.js",
+    "clean": "rm -rf dist & rm -rf node_modules",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "video.js": "^5.11.7",
+    "three": "^0.82.0",
+    "webvr-boilerplate": "github:metacdn/webvr-boilerplate",
+    "webvr-polyfill": "^0.9.20"
+  },
+  "devDependencies": {
+    "browserify": "13.0.0",
+    "browserify-css": "0.9.1",
+    "video.js": "^5.11.7",
+    "three": "^0.82.0",
+    "webvr-boilerplate": "github:metacdn/webvr-boilerplate",
+    "webvr-polyfill": "^0.9.20",
+    "dashjs": "^2.2.0",
+    "videojs-contrib-dash": "^2.5.1",
+    "express": "4.13.4",
+    "express-http-proxy": "0.6.0",
+    "cors": "2.7.1",
+    "nodemon": "1.9.1"
+  },
+  "gitHead": "2b9a865621fe7801ac8d2ddeca656c4fff9b5d00",
+  "description": "A video.js plugin that turns a video element into a HTML5 Panoramic 360 video player. Project video onto different shapes. Optionally supports Oculus Rift, HTC Vive and the GearVR.",
+  "bugs": {
+    "url": "https://github.com/MetaCDN/videojs-vr/issues"
+  },
+  "homepage": "https://github.com/MetaCDN/videojs-vr#readme",
+  "_id": "videojs-vr@0.2.0",
+  "_shasum": "bc3acf6091d4624857f9941cc9621ee4258c63a0",
+  "_from": "videojs-vr@*",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "6.1.0",
+  "_npmUser": {
+    "name": "jbroberg",
+    "email": "james.broberg@streamshark.io"
+  },
+  "dist": {
+    "shasum": "bc3acf6091d4624857f9941cc9621ee4258c63a0",
+    "tarball": "https://registry.npmjs.org/videojs-vr/-/videojs-vr-0.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jbroberg",
+      "email": "james.broberg@streamshark.io"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/videojs-vr-0.2.0.tgz_1478556391313_0.29762784019112587"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/videojs-vr/-/videojs-vr-0.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
