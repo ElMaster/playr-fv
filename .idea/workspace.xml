@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eb731e5-4715-4e8f-8362-3e23a845ac4c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/cast_sender.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/html5shiv-3.6.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/videoPlayer/html5/1.8.3/mhp1138.player.HTML5PlayerMobile.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/videoPlayer/html5/2.1.0/mhp1138.player.HTML5Player.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/videoPlayer/loader/2.3.2/mhp1138.loader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/videoPlayer/loader/2.5.0/mhp1138.loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/videoPlayer/loader/2.5.0/mhp1138.loader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/vr/lib/gl-matrix-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/vr/lib/gl-matrix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/vr/normotion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/vr/vrplayer-noMin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5player/vr/vrplayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/commons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/htmlPauseRoll/pb_block.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/large_temp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/modals_commons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/playlist-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/show_new.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/listings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/modals_commons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/premium-modals.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/vmobile/show.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/css/widgets-comments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/images/ajax-loader-small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/images/sprite-pornhub-nf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/images/vmobile/sprite-ui.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/jquery-2.0.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/jquery.cookie-1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/mg_modal-1.0.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/mg_utils-1.0.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/quality-selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/autocomplete-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/head.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/html5-canvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/phub.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/show.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vmobile/vr-loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/vtablet/hammer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www-static/js/widgets-player.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
     </list>
     <ignored path="playr-fv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +24,28 @@
     <favorites_list name="playr-fv" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="example.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="player-skin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/player-skin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,6 +65,7 @@
         <option value="$PROJECT_DIR$/html5player/videoPlayer/html5/1.8.3/mhp1138.player.HTML5PlayerMobile.min.js" />
         <option value="$PROJECT_DIR$/html5player/vr/vrplayer.js" />
         <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/example.html" />
       </list>
     </option>
   </component>
@@ -164,7 +139,141 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videojs-contrib-dash" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="playr-fv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alt" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,7 +288,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../video-npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oriflame" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -237,18 +346,19 @@
       <workItem from="1479147316927" duration="4755000" />
       <workItem from="1479199621684" duration="2833000" />
       <workItem from="1479215806153" duration="47000" />
+      <workItem from="1479215973067" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12039000" />
+    <option name="totallyTimeSpent" value="12544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2360515" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23927039" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -283,46 +393,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7429">
-          <caret line="434" column="98" selection-start-line="434" selection-start-column="41" selection-end-line="434" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/html5/2.1.0/mhp1138.player.HTML5Player.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www-static/js/vmobile/head.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="3" selection-end-line="60" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/loader/2.5.0/mhp1138.loader.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32499">
-          <caret line="1413" column="21" selection-start-line="1413" selection-start-column="14" selection-end-line="1413" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/html5/2.1.0/mhp1138.player.HTML5Player.min.js" />
+    <entry file="file://$PROJECT_DIR$/www-static/js/vmobile/head.js" />
+    <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/loader/2.5.0/mhp1138.loader.min.js" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/index2.html" />
     <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/html5/2.1.0/mhp1138.player.HTML5Player.min.js" />
@@ -343,5 +418,73 @@
     <entry file="file://$PROJECT_DIR$/html5player/videoPlayer/html5/2.1.0/mhp1138.player.HTML5Player.min.js" />
     <entry file="file://$PROJECT_DIR$/html5player/vr/lib/gl-matrix.js" />
     <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/video.js/dist/examples/simple-embed/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/player.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/video.js/dist/video-js.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/videojs.vr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8469">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/video.js/dist/alt/video-js-cdn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/player-skin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
